@@ -1,0 +1,74 @@
+
+body{
+display: flex;
+  justify-content: center;
+ background: linear-gradient(#19053d,#251169);
+  height: 100%;
+}
+#h1{
+  color: white;
+}
+input{
+  color:#78136d;
+  background:#00ffed;
+  border-radius:30px 30px;
+  font-size: 20px;
+  height: 30px;
+}
+#h3{
+  color: white;
+ transform: translatey(15px);
+}
+#img1{
+ width: 200px;
+ height: 200px;
+ border-radius: 50%;
+ border-block: 2px white solid;
+}
+#ul{
+  background:green;
+   width: 80px;
+   height: 30px;
+  border-radius:30px 30px;
+  padding: 5px 5px;
+}
+ul li{
+  list-style: none;
+  margin:px 0px;
+}
+ul li a{
+  color:white;
+  text-decoration: none;
+  font-size:px;
+  letter-spacing:;
+  padding:5px 5px;
+  display: inline-block;
+  transition: 0.5s;
+  border-radius:30px 30px;
+  transform: translatey();
+  transform: translatex(-5px);
+  height: 30px;
+  width: 80px;
+}
+ul li a:hover{
+  transform:scale(0.5);
+  background:red;
+ transform: translatex(-10px);
+ letter-spacing:none ;
+}
+ruby rt{
+   text-decoration: none;
+  font-size: 20px;
+  color:#6cd6d7;
+}
+ruby rb a{
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  background: #7fd069;
+  border-radius: 30px 15px;
+  margin-block-start: 100px;
+}
+p{
+  font-size: 50px;
+}
